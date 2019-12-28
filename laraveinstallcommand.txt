@@ -1,0 +1,6 @@
+For make auth need following two commands
+
+1) composer require laravel/ui
+2) php artisan ui vue --auth
+
+after that npm install & npm run dev
